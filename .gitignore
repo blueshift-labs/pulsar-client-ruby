@@ -13,3 +13,10 @@
 # build artifacts
 lib/pulsar/bindings.bundle
 *.gem
+
+spec/pulsar/ext/bindings.bundle
+spec/pulsar/ext/bindings.o
+spec/pulsar/ext/Makefile
+
+# Intellij IDEA
+.idea/
